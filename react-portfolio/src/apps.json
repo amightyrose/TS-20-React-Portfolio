@@ -46,14 +46,14 @@
 		"image": "pf-workdaysch.png",
 		"title": "Work Day Scheduler",
 		"description": "A calendar app for scheduling your work day",
-		"ghURL": "https://timsilby.github.io/TS-05-Work-Day-Scheduler/"
+		"ghURL": "https://github.com/timsilby/TS-05-Work-Day-Scheduler"
 	},
 	{
 		"appURL": "https://timsilby.github.io/TS-04-Code-Quiz/",
 		"image": "pf-codequiz.png",
 		"title": "Code Quiz",
 		"description": "A simple web-based quiz game",
-		"ghURL": "https://timsilby.github.io/TS-04-Code-Quiz/"
+		"ghURL": "https://github.com/timsilby/TS-04-Code-Quiz"
 	},
 	{
 		"appURL": "https://timsilby.github.io/TS-03-Password-Generator/",
