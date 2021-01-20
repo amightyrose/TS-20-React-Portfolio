@@ -1,7 +1,22 @@
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
+import Navbar from "./components/Navbar";
 
-function App() {
+const App = () => {
 	return (
-		<h1>App</h1>
+		<Router>
+			<Navbar />
+			<Switch>
+				<Route>
+					<About exact path="/" />
+				</Route>
+				<Route>
+					<Portfolio exact path="/portfolio" />
+				</Route>
+				<Route>
+					<Contact exact path="/contact" />
+				</Route>
+			</Switch>
+		</Router>
 	);
 }
 
