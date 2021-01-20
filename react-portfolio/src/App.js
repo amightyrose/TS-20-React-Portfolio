@@ -3,6 +3,7 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import About from "./pages/About"
 import Contact from "./pages/Contact"
+import Portfolio from "./pages/Portfolio"
 
 const App = () => {
 	return (
@@ -13,7 +14,7 @@ const App = () => {
 					<About />
 				</Route>
 				<Route exact path="/portfolio">
-					{/* <Portfolio /> */}
+					<Portfolio />
 				</Route>
 				<Route exact path="/contact">
 					<Contact />

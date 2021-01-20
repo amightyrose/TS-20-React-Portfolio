@@ -1,0 +1,65 @@
+[
+	{
+		"appURL": "https://epanastatis2020.github.io/Informed-Travel-App/",
+		"image": "pf-informedtraveller.png",
+		"title": "Informed Traveller",
+		"description": "Choose a destination and view location specific news and weather",
+		"ghURL": "https://github.com/Epanastatis2020/Informed-Travel-App"
+	},
+	{
+		"appURL": "https://communityconnect-1.herokuapp.com/",
+		"image": "pf-commconn.png",
+		"title": "CommunityConnect",
+		"description": "An online app connecting people who need help with volunteers in their community",
+		"ghURL": "https://github.com/rorydavidtanner/CommunityConnect"
+	},
+	{
+		"appURL": "https://timsilby.github.io/TS-06-Weather-Dashboard/",
+		"image": "pf-weatherdash.png",
+		"title": "Weather Dashboard",
+		"description": "A simple web application for showing current and forecast weather for major world cities",
+		"ghURL": "https://github.com/timsilby/TS-06-Weather-Dashboard"
+	},
+	{
+		"appURL": "https://polar-oasis-04512.herokuapp.com/",
+		"image": "pf-burgertown.png",
+		"title": "Burger Town!",
+		"description": "Eat some virtual burgers",
+		"ghURL": "https://github.com/timsilby/TS-13-Burger-Town"
+	},
+	{
+		"appURL": "https://github.com/timsilby/TS-12-Employee-Tracker",
+		"image": "pf-emptracker.png",
+		"title": "Employee Tracker",
+		"description": "A command line utility for managing employee information",
+		"ghURL": "https://github.com/timsilby/TS-12-Employee-Tracker"
+	},
+	{
+		"appURL": "https://github.com/timsilby/TS-10-Employee-Summary-Generator",
+		"image": "pf-esgenerator.png",
+		"title": "Employee Summary Generator",
+		"description": "A command line application for generating a roster of employee details from user input",
+		"ghURL": "https://github.com/timsilby/TS-10-Employee-Summary-Generator"
+	},
+	{
+		"appURL": "https://timsilby.github.io/TS-05-Work-Day-Scheduler/",
+		"image": "pf-workdaysch.png",
+		"title": "Work Day Scheduler",
+		"description": "A calendar app for scheduling your work day",
+		"ghURL": "https://timsilby.github.io/TS-05-Work-Day-Scheduler/"
+	},
+	{
+		"appURL": "https://timsilby.github.io/TS-04-Code-Quiz/",
+		"image": "pf-codequiz.png",
+		"title": "Code Quiz",
+		"description": "A simple web-based quiz game",
+		"ghURL": "https://timsilby.github.io/TS-04-Code-Quiz/"
+	},
+	{
+		"appURL": "https://timsilby.github.io/TS-03-Password-Generator/",
+		"image": "pf-pwdgen.png",
+		"title": "Password Generator",
+		"description": "A password generator",
+		"ghURL": "https://github.com/timsilby/TS-03-Password-Generator"
+	}
+]

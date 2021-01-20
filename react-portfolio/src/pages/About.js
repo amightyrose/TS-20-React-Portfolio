@@ -24,7 +24,7 @@ const About = () => {
 							In 2020 I decided to go back to the IT industry, this time as a web developer. I work with HTML/CSS, JavaScript, Node and React.
 						</p>
 						<p className="text-center pt-3">
-							<a href="assets/timsilby-resume.pdf" target="_blank" className="text-decoration-none">Click here to view a copy of my resume</a>
+							<a href="assets/timrose-resume.pdf" target="_blank" className="text-decoration-none">Click here to view a copy of my resume</a>
 						</p>
 
 					</div>
