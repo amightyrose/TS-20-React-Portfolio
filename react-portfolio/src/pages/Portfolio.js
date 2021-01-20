@@ -9,8 +9,6 @@ const Portfolio = () => {
 		)
 	})
 
-	console.log(projectCards);
-
 	return (
 		<main className="container bg-light my-4 p-4 flex-shrink-0">
 			<h1 className="display-5 pt-2 font-weight-bolder">Portfolio</h1>
