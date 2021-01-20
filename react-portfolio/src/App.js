@@ -2,6 +2,7 @@ import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import About from "./pages/About"
+import Contact from "./pages/Contact"
 
 const App = () => {
 	return (
@@ -15,7 +16,7 @@ const App = () => {
 					{/* <Portfolio /> */}
 				</Route>
 				<Route exact path="/contact">
-					{/* <Contact /> */}
+					<Contact />
 				</Route>
 			</Switch>
 			<Footer />
