@@ -1,5 +1,12 @@
 [
 	{
+		"appURL": "https://bill-boss.herokuapp.com/",
+		"image": "pf-billboss.png",
+		"title": "BillBoss",
+		"description": "Keep on top of your bills",
+		"ghURL": "https://github.com/timsilby/billboss"
+	},
+	{
 		"appURL": "https://epanastatis2020.github.io/Informed-Travel-App/",
 		"image": "pf-informedtraveller.png",
 		"title": "Informed Traveller",

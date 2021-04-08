@@ -23,9 +23,6 @@ const About = () => {
 						<p>
 							In 2020 I decided to go back to the IT industry, this time as a web developer. I work with HTML/CSS, JavaScript, Node and React.
 						</p>
-						<p className="text-center pt-3">
-							<a href="assets/timrose-resume.pdf" target="_blank" className="text-decoration-none">Click here to view a copy of my resume</a>
-						</p>
 
 					</div>
 				</div>
@@ -38,13 +35,18 @@ const About = () => {
 				<div className="row justify-content-center py-2">
 
 					<div className="col-sm-auto">
-						<img src="https://img.icons8.com/color/24/000000/linkedin.png" alt="LinkedIn Icon" />
-						<a href="https://www.linkedin.com/in/timsilby" target="_blank" rel="noreferrer" className="text-decoration-none">LinkedIn</a>
+						<img src="https://img.icons8.com/color/24/000000/linkedin.png" alt="LinkedIn Icon" className="mr-1" />
+						<a href="https://www.linkedin.com/in/timroseau" target="_blank" rel="noreferrer" className="text-decoration-none">LinkedIn</a>
 					</div>
 
 					<div className="col-sm-auto">
-						<img src="https://img.icons8.com/color/24/000000/github--v1.png" alt="GitHub Icon" />
+						<img src="https://img.icons8.com/color/24/000000/github--v1.png" alt="GitHub Icon" className="mr-1" />
 						<a href="https://github.com/timsilby" target="_blank" rel="noreferrer" className="text-decoration-none">GitHub</a>
+					</div>
+
+					<div className="col-sm-auto">
+						<img src="https://img.icons8.com/color/24/000000/envelope.png" alt="Email Icon" className="mr-1" />
+						<a href="mailto:tim@timrose.com.au" target="_blank" rel="noreferrer" className="text-decoration-none">Email</a>
 					</div>
 
 				</div>
